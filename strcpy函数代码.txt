@@ -15,3 +15,6 @@ char* StrCpy(char* src)
 	p[i] = '\0';
 	return p;
 }
+/**
+远程编辑
+**/
